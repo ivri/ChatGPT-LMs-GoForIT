@@ -2,7 +2,7 @@
 ChatGPT, Language Models, Stochastic Parrots, and The Infinite Monkey Theorem
 
 
-Jupyter notebooks extracted from Colab. Presented for year 7 to 12 school girls in June 2023 as a part of GoGirlGoForIT event.
+Jupyter notebooks extracted from Colab. Presented for year 7 to 12 school girls in June 2023 as a part of (GoGirlGoForIT event)[https://www.gogirl.org.au/].
 
 Abstract: I will explain the general principles that are used to create and train models such as ChatGPT (called "language models"). Then I will illustrate how they are used, discuss their limitations, and the reasons why they are called "stochastic parrots".  At the end, we will develop and train our own "toy" language model together.
 
